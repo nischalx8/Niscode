@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-namespace Niscode.ArraysAndHashing.ContainsDuplicate;
+﻿namespace Niscode.ArraysAndHashing.ContainsDuplicate;
 
 public class Solution
 {
