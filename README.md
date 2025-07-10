@@ -10,4 +10,5 @@
 - **Top K Frequent Elements (30 June, 2025)**
 - **Encode & Decode Strings (1 July, 2025)**
 - **Products of Array Except Self (2 July, 2025)**
+- **Valid Sudoku (10 July, 2025)**
 
