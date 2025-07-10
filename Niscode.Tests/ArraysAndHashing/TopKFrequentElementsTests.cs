@@ -20,11 +20,11 @@ public class TopKFrequentElementsTests
 
     public static IEnumerable<object[]> GetTestData()
     {
-        yield return new object[] { new[] { 1, 2, 2, 3, 3, 3 }, 2, new[] { 2, 3 } };
-        yield return new object[] { new[] { 7, 7 }, 1, new[] { 7 } };
-        yield return new object[] { new[] { 5, 6, 5, 7, 6, 5 }, 1, new[] { 5 } };
-        yield return new object[] { new[] { 1 }, 1, new[] { 1 } };
-        yield return new object[] { new[] { -1, -1, -2, -2, -2, -3 }, 2, new[] { -2, -1 } };
-        yield return new object[] { new[] { 4, 4, 4, 5, 5, 6 }, 2, new[] { 4, 5 } };
+        yield return [new[] { 1, 2, 2, 3, 3, 3 }, 2, new[] { 2, 3 }];
+        yield return [new[] { 7, 7 }, 1, new[] { 7 }];
+        yield return [new[] { 5, 6, 5, 7, 6, 5 }, 1, new[] { 5 }];
+        yield return [new[] { 1 }, 1, new[] { 1 }];
+        yield return [new[] { -1, -1, -2, -2, -2, -3 }, 2, new[] { -2, -1 }];
+        yield return [new[] { 4, 4, 4, 5, 5, 6 }, 2, new[] { 4, 5 }];
     }
 }

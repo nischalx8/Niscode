@@ -11,4 +11,5 @@
 - **Encode & Decode Strings (1 July, 2025)**
 - **Products of Array Except Self (2 July, 2025)**
 - **Valid Sudoku (10 July, 2025)**
+- **Longest Consecutive Sequence (10 July, 2025)**
 
